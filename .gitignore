@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Mac OS
+.DS_Store
+
+# User generated persona outputs (Prevents users from accidentally committing their private mentor generations)
+*-perspective/
+outputs/
+references/
+sources/local/
+
+# AI Agent local config files
+.claude/
+.cursor/

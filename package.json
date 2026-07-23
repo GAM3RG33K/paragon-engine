@@ -1,0 +1,30 @@
+{
+  "name": "paragon-engine",
+  "version": "1.0.0",
+  "description": "An AI mentorship skill that adopts a historical persona with 100% fidelity to identify and aggressively refine the user's innate strengths.",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GAM3RG33K/paragon-engine.git"
+  },
+  "keywords": [
+    "ai-agent",
+    "agent-skills",
+    "prompt-engineering",
+    "claude-code",
+    "cursor",
+    "npx-skills",
+    "mentorship",
+    "persona",
+    "coaching"
+  ],
+  "author": "Harshvardhan Joshi <contact@harshjoshi.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GAM3RG33K/paragon-engine/issues"
+  },
+  "homepage": "https://harshjoshi.dev"
+}
