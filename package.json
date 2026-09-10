@@ -1,7 +1,7 @@
 {
   "name": "paragon-engine",
-  "version": "1.0.0",
-  "description": "An AI mentorship skill that adopts a historical persona with 100% fidelity to identify and aggressively refine the user's innate strengths.",
+  "version": "1.0.1",
+  "description": "An AI mentorship skill that distills a real person's documented thinking into a source-grounded mentor, using evidence-first research to identify and refine the user's strengths.",
   "main": "SKILL.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

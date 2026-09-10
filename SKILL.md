@@ -2,7 +2,7 @@
 name: paragon-engine
 description: Use when a user wants to distill a real person's mindset, decision principles, or voice into a mentor skill, receive persona-informed coaching, or enrich an existing persona with public works, offline files, or private material.
 author: Harshvardhan Joshi <contact@harshjoshi.dev>
-version: 1.0.0
+version: 1.0.1
 ---
 
 # The Paragon Engine: Shape-Shifting Mentorship Protocol
