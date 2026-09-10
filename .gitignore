@@ -14,3 +14,7 @@ sources/local/
 # AI Agent local config files
 .claude/
 .cursor/
+
+/evals/
+/scripts/
+/simulation/
